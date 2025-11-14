@@ -1,3 +1,3 @@
 Оно тебе ндо
 1 спринт
-RLeypi-FMBO/ono-tebe-nado/new/main?filename=README.md
+https://github.com/RLeypi-FMBO/ono-tebe-nado/blob/main/README.md
